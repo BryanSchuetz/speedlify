@@ -6,6 +6,6 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.speedlify.dev/"
+		"https://distresssignal.org/",
 	]
 };
