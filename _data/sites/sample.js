@@ -6,6 +6,6 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://distresssignal.org/",
+		"https://distresssignal.org",
 	]
 };
