@@ -33,6 +33,7 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-fetch": "^4.0.0",
     "@netlify/functions": "^2.6.0",
+    "@types/node": "^14.18.63",
     "byte-size": "^8.1.1",
     "chartist": "^0.11.4",
     "cross-zip": "^4.0.0",
@@ -42,6 +43,7 @@
     "performance-leaderboard": "^11.0.0",
     "puppeteer": "^21.3.1",
     "short-hash": "^1.0.0",
-    "speedlify-score": "^3.0.0"
+    "speedlify-score": "^3.0.0",
+    "typescript": "^4.9.5"
   }
 }
