@@ -7,6 +7,7 @@ module.exports = {
 	},
 	urls: [
 		"https://distresssignal.org",
-    "https://pulsar-5be.pages.dev/"
+    "https://pulsar-5be.pages.dev/",
+    "https://darthnull.org/"
 	]
 };
